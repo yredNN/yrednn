@@ -15,7 +15,7 @@
 </p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=alikarpat0&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yredNN&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
 </a>
 
 </div>
@@ -50,14 +50,14 @@
 <div align="center">
   <h3>📊 İstatistik Paneli</h3>
   
-  <a href="https://github.com/alikarpat0">
-    <img src="https://github-readme-stats.vercel.app/api?username=alikarpat0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="160" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikarpat0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="160" alt="languages" />
+  <a href="https://github.com/yredNN">
+    <img src="https://github-readme-stats.vercel.app/api?username=yredNN&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="160" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yredNN&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="160" alt="languages" />
   </a>
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alikarpat0&theme=radical&hide_border=true&background=0D1117" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yredNN&theme=radical&hide_border=true&background=0D1117" alt="streak" />
 </div>
 
 <div align="center">
