@@ -42,10 +42,10 @@
 <div align="center">
 
 <a href="https://github.com/yredNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yredNN&show_icons=true&theme=transparent&hide_border=false&locale=tr" alt="Ali Karpat Stats" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api?username=yredNN&show_icons=true&theme=transparent&hide_border=false&locale=tr" alt="Ali Karpat Stats" />
 </a>
 <a href="https://github.com/yredNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yredNN&layout=compact&theme=transparent&hide_border=false&locale=tr" alt="Top Languages" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/top-langs/?username=yredNN&layout=compact&theme=transparent&hide_border=false&locale=tr" alt="Top Languages" />
 </a>
 
 </div>
