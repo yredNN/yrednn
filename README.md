@@ -40,14 +40,20 @@
 ### 📈 GitHub İstatistikleri
 
 <div align="center">
-
-<a href="https://github.com/yredNN">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yrednn&theme=radical" alt="Ali Karpat Stats" />
-</a>
-<a href="https://github.com/yredNN">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yrednn&theme=radical" alt="Top Languages" />
-</a>
-
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/alikarpat0">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alikarpat0&theme=radical" alt="Ali Karpat Stats" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/alikarpat0">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alikarpat0&theme=radical" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
