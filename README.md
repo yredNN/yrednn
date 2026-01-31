@@ -4,13 +4,13 @@
 
 I'm a Full Stack Developer | Open Source Enthusiast | Tech Blogger
 
-<a href="https://linkedin.com/in/[KullanıcıAdın]">
+<a href="https://linkedin.com/in/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://twitter.com/[KullanıcıAdın]">
+<a href="https://x.com/alikarpat0">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
-<a href="mailto:[EmailAdresin]">
+<a href="mailto:alikarpat0@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
@@ -25,9 +25,9 @@ I'm a Full Stack Developer | Open Source Enthusiast | Tech Blogger
 ### 👨‍💻 Hakkımda
 
 - 🔭 Şu anda farklı projeler üzerinde çalışıyorum.
-- 🌱 Şu anda **[JS]** öğreniyorum.
+- 🌱 Şu anda **JS** öğreniyorum.
 - 👯 Oyun kodlamaları üzerine iş birliklerine açığım.
-- 💬 Bana **[Yazılım/Teknoloji]** hakkında her şeyi sorabilirsin.
+- 💬 Bana **Yazılım/Teknoloji** hakkında her şeyi sorabilirsin.
 
 ---
 
@@ -49,8 +49,8 @@ I'm a Full Stack Developer | Open Source Enthusiast | Tech Blogger
 <div align="center">
 
 <a href="https://github.com/yrednn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yrednn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrednn&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yrednn&theme=radical"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yrednn&theme=radical"/>
 </a>
 
 </div>
