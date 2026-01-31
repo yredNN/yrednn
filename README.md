@@ -1,6 +1,6 @@
 <div align="center">
 
-# Selamlar, ben [Adın Soyadın]! 👋
+# Selamlar, ben Ali KARPAT! 👋
 
 I'm a Full Stack Developer | Open Source Enthusiast | Tech Blogger
 
@@ -16,7 +16,7 @@ I'm a Full Stack Developer | Open Source Enthusiast | Tech Blogger
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=[GitHubKullanıcıAdın]&color=blueviolet" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=yrednn&color=blueviolet" alt="Profile views" />
 
 </div>
 
@@ -24,11 +24,10 @@ I'm a Full Stack Developer | Open Source Enthusiast | Tech Blogger
 
 ### 👨‍💻 Hakkımda
 
-- 🔭 Şu anda **[Proje Adı veya Konu]** üzerinde çalışıyorum.
-- 🌱 Şu anda **[Öğrendiğin Teknoloji]** öğreniyorum.
-- 👯 **[İlgi Alanın]** üzerine iş birliklerine açığım.
+- 🔭 Şu anda farklı projeler üzerinde çalışıyorum.
+- 🌱 Şu anda **[JS]** öğreniyorum.
+- 👯 Oyun kodlamaları üzerine iş birliklerine açığım.
 - 💬 Bana **[Yazılım/Teknoloji]** hakkında her şeyi sorabilirsin.
-- ⚡ Eğlenceli gerçek: **[Kendinle ilgili komik veya ilginç bir detay]**.
 
 ---
 
@@ -49,9 +48,9 @@ I'm a Full Stack Developer | Open Source Enthusiast | Tech Blogger
 
 <div align="center">
 
-<a href="https://github.com/[GitHubKullanıcıAdın]">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[GitHubKullanıcıAdın]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHubKullanıcıAdın]&layout=compact&theme=tokyonight"/>
+<a href="https://github.com/yrednn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yrednn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrednn&layout=compact&theme=tokyonight"/>
 </a>
 
 </div>
