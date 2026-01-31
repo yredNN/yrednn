@@ -1,56 +1,63 @@
 <div align="center">
 
-# Selamlar, ben Ali KARPAT! 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F24E76&background=00000000&center=true&vCenter=true&width=435&lines=Selamlar,+Ben+Ali+KARPAT!+👋;Full+Stack+Developer;Game+Dev+Enthusiast;Tech+Blogger" alt="Typing SVG" />
 
-I'm a Full Stack Developer | Open Source Enthusiast | Tech Blogger
+<p align="center">
+  <a href="https://x.com/alikarpat0" target="_blank">
+    <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:alikarpat0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/[LINKEDIN_KULLANICI_ADIN]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-<a href="https://linkedin.com/in/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://x.com/alikarpat0">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="mailto:alikarpat0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=yrednn&color=blueviolet" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=yrednn&color=F24E76&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-### 👨‍💻 Hakkımda
+<div align="center"> 
 
-- 🔭 Şu anda farklı projeler üzerinde çalışıyorum.
-- 🌱 Şu anda **JS** öğreniyorum.
-- 👯 Oyun kodlamaları üzerine iş birliklerine açığım.
-- 💬 Bana **Yazılım/Teknoloji** hakkında her şeyi sorabilirsin.
+### 🚀 Hakkımda & Yetenekler
 
----
+<table align="center">
+  <tr>
+    <td align="left" width="50%">
+      <br>
+      <ul>
+        <li>🔭 Şu anda <b>farklı projeler</b> geliştiriyorum.</li>
+        <li>🌱 Aktif olarak <b>JavaScript</b> öğreniyorum.</li>
+        <li>🎮 <b>Oyun kodlama</b> ve geliştirmeyle ilgileniyorum.</li>
+        <li>🤝 İş birliklerine ve yeni fikirlere açığım.</li>
+        <li>💬 Bana <b>Yazılım & Teknoloji</b> sorabilirsin.</li>
+      </ul>
+    </td>
+    <td align="center" width="50%">
+      <b>🛠️ Tech Stack</b>
+      <br><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,js,react,html,css,git,vscode,github&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Kullandığım Teknolojiler ve Araçlar
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Analizlerim
 
 <div align="center">
-
-<a href="https://github.com/yrednn">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yrednn&theme=radical"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yrednn&theme=radical"/>
-</a>
-
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yrednn&theme=radical" alt="Profile Details" />
+  </p>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yrednn&theme=radical" alt="Repos per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yrednn&theme=radical" alt="Productive Time" />
+  </p>
 </div>
