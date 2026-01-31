@@ -41,10 +41,10 @@
 
 <div align="center">
   <a href="https://github.com/alikarpat0">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alikarpat0&theme=radical" alt="Ali Karpat Stats" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alikarpat0&theme=radical" alt="Ali Karpat Stats" />
   </a>
   <a href="https://github.com/alikarpat0">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alikarpat0&theme=radical" alt="Top Languages" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alikarpat0&theme=radical" alt="Top Languages" />
   </a>
 </div>
 
