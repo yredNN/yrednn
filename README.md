@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # 👋 Hi, I'm Ali Karpat
@@ -209,6 +208,3 @@ Cloud & DevOps
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer"/>
-
-```
-```
